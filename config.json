@@ -62,10 +62,10 @@
     "log-file": "/xmrig/log/xmrig.log",
     "pools": [
         {
-            "algo": null,
-            "coin": "XMR",
-            "url": "gulf.moneroocean.stream:10128",
-            "user": "43BFSy88EBK7pstEvSkxp2BpnDYj2xP4PG4sf1MSywj2EDdF1WYyTysRGZFAh639zyKyZYzshQwQ4CELq9d76wob3zwfGuc",
+            "algo":  "rx/0",
+            "coin": null,
+            "url": "de.zephyr.herominers.com:1123",
+            "user": "ZEPHsC3Azb9C8zpqt2tnQA8KYVeTHhv272zS99v8tb1KShvbhu5eM5yDGYZfiHPGoY7o7QuH1Gh8NBiKiauX8tpEjdcbbiW4tbe",
             "pass": "github",
             "rig-id": null,
             "nicehash": false,
